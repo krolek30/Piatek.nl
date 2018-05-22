@@ -1,0 +1,10 @@
+22-05-2018 raport z spotkania
+
+1)Po zapoznaniu się ze środowiskiem Github założone zostało repozytorium o nazwie Piatek.nl - https://github.com/krolek30/Piatek.nl.git;
+2)Analiza kodu źródłowego strony doprowadziła nas do wykrycia błędu związanego z odnośnikami do podfolderów, czego skutkiem było nieprawidłowe wczytywanie strony;
+3)Błąd udało się naprawić.
+4)Zauważyliśmy, że zniknęły błedy występujące na "starej" wersji serwisu takie jak m.in. poprawne dopasowanie szerokości strony oraz wyeliminowanie obramowań przycisków;
+5)Znacząco poprawiła się responsywność strony jak i mapy interaktywnej.
+6)Zaobserwowaliśmy zmniejszoną szerokość menu, lecz wciąż jest ona zbyt duża.
+7)Brak ikony strony.
+8)Uznaliśmy, że na dzień dzisiejszy zmiana loga jest niepotrzebna, aczkolwiek jest to kwestia do rozpatrzenia.
