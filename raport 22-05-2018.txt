@@ -1,4 +1,4 @@
-22-05-2018 raport z spotkania
+22-05-2018 raport ze spotkania
 
 1)Po zapoznaniu się ze środowiskiem Github założone zostało repozytorium o nazwie Piatek.nl - https://github.com/krolek30/Piatek.nl.git;
 2)Analiza kodu źródłowego strony doprowadziła nas do wykrycia błędu związanego z odnośnikami do podfolderów, czego skutkiem było nieprawidłowe wczytywanie strony;
