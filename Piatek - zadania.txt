@@ -1,0 +1,15 @@
+﻿	--- PIATEK.NL ---
++ zmiana tła strony
+	- wyeliminowanie wzorów występujących w sekcji TEAM i CONTACT;
++ czytelność menu
+	- zmniejszenie wysokości MENU;
+	- zmniejszenie wielkości logo wraz z nazwą firmy;
+	- wyeliminowanie dziwnych obramowań przycisków (NAPRAWIONE);
++ modernizacja logo (DO KONSULTACJI);
++ uproszczenie interaktywnej mapy;
+	- rezygnacja z różnokolorowych oznaczeń;
++ zastosowanie stopki na stronie;
++ ikona strony (favicon) z zastosowaniem przeźroczystości;
++ dopasowanie szerokości strony (NAPRAWIONE);
++ aktualizacja zdjęć personelu w sekcji TEAM (DO KONSULTACJI);
++ wersja mobilna/responsywność;
